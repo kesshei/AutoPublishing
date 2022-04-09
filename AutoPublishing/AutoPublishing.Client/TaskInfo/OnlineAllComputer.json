@@ -1,0 +1,20 @@
+﻿{
+	"ID": null,
+	"Name": "OnlineAllComputer",
+	"CMDName": "MaxComputer",
+	"NetType": "OSS",
+	"LocalRootDir": "E:\\source\\repos\\ReportService\\CC.MaxComputer.Net5\\CC.ALLComputer\\bin\\Debug\\net5.0",
+	"ServerRootDir": "G:\\test\\allComputer",
+	"ServerInfos": [
+		{
+			"ExePath": "CC.ALLComputer.exe",
+			"IsClose": false,
+			"IsStart": false
+		}
+	],
+	"NotIncluded": [
+		"TaskConfig.json",
+		"appsettings.json"
+	],
+	"IsComplete": false
+}

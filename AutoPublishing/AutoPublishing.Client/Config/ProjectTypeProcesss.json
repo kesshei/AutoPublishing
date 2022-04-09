@@ -1,0 +1,12 @@
+﻿[
+  {
+    "ProjectType": "DotNet",
+    "CMDs": [
+      "git fetch --verbose",
+      "git merge",
+      "git status",
+      "dotnet restore",
+      "dotnet build"
+    ]
+  }
+]

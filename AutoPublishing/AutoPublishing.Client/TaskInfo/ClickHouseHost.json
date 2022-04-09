@@ -1,0 +1,19 @@
+﻿{
+	"ID": null,
+	"Name": "ClickHouseHost",
+	"CMDName": "ClickHouseSync",
+	"NetType": "Web",
+	"LocalRootDir": "E:\\source\\repos\\clickhouse-import\\clickhouse.net\\CC.ClickHouseSync\\bin\\Debug\\net5.0",
+	"ServerRootDir": "C:\\Users\\test\\Desktop\\测试环境\\ClickHouseSync",
+	"ServerInfos": [
+		{
+			"ExePath": "CC.ClickHouseSync.exe",
+			"IsClose": false,
+			"IsStart": false
+		}
+	],
+	"NotIncluded": [
+		"dev.yaml"
+	],
+	"IsComplete": false
+}

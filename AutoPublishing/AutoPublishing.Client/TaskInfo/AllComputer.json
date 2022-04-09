@@ -1,0 +1,19 @@
+﻿{
+	"ID": null,
+	"Name": "AllComputer",
+	"CMDName": "MaxComputer",
+	"NetType": "Web",
+	"LocalRootDir": "E:\\source\\repos\\ReportService\\CC.MaxComputer.Net5\\CC.ALLComputer\\bin\\Debug\\net5.0",
+	"ServerRootDir": "C:\\Users\\test\\Desktop\\测试环境\\ALLComputer",
+	"ServerInfos": [
+		{
+			"ExePath": "CC.ALLComputer.exe",
+			"IsClose": false,
+			"IsStart": false
+		}
+	],
+	"NotIncluded": [
+		"TaskConfig.json"
+	],
+	"IsComplete": false
+}

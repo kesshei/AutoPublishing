@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AutomaticPublishing.Client": {
+      "commandName": "Project",
+      "commandLineArgs": "OnlineAllComputer"
+    }
+  }
+}

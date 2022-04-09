@@ -1,0 +1,19 @@
+﻿{
+	"ID": null,
+	"Name": "RouteHost",
+	"CMDName": "MaxComputer",
+	"NetType": "Web",
+	"LocalRootDir": "E:\\source\\repos\\ReportService\\CC.MaxComputer.Net5\\CC.MaxComputer.RouteHost\\bin\\Debug\\net5.0",
+	"ServerRootDir": "C:\\Users\\test\\Desktop\\测试环境\\RouteHost",
+	"ServerInfos": [
+		{
+			"ExePath": "CC.MaxComputer.RouteHost.exe",
+			"IsClose": false,
+			"IsStart": false
+		}
+	],
+	"NotIncluded": [
+		"appsettings.json"
+	],
+	"IsComplete": false
+}

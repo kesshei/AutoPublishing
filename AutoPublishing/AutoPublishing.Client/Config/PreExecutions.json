@@ -1,0 +1,12 @@
+﻿[
+	{
+		"CMDName": "MaxComputer",
+		"ProjectType": "DotNet",
+		"ProjectDirectory": "E:\\source\\repos\\ReportService\\CC.MaxComputer.Net5"
+	},
+	{
+		"CMDName": "ClickHouseSync",
+		"ProjectType": "DotNet",
+		"ProjectDirectory": "E:\\source\\repos\\clickhouse-import\\clickhouse.net\\CC.ClickHouseSync"
+	}
+]
